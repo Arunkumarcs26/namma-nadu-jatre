@@ -55,5 +55,5 @@ app/
 
 ## Author
 
-**Pete Royce Saldanha**
+**ARUN KUMAR C S**
 MindMatrix Internship — Android App Development using Gen AI (Feb–May 2026)
